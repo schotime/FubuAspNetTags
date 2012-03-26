@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuAspNetTags", "FubuAspNetTags\FubuAspNetTags.csproj", "{4CBA5F40-9B33-47E5-AC58-79BF38ACE60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuAspNetTags.Core", "FubuAspNetTags.Core\FubuAspNetTags.Core.csproj", "{6A03C733-5ABF-4C89-BC47-EA2B7D655733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuAspNetTags.Core.StructureMap", "FubuAspNetTags.Core.StructureMap\FubuAspNetTags.Core.StructureMap.csproj", "{622C928B-BF9C-4057-8E8A-8FAD6C43E9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBA5F40-9B33-47E5-AC58-79BF38ACE60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBA5F40-9B33-47E5-AC58-79BF38ACE60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBA5F40-9B33-47E5-AC58-79BF38ACE60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBA5F40-9B33-47E5-AC58-79BF38ACE60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A03C733-5ABF-4C89-BC47-EA2B7D655733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A03C733-5ABF-4C89-BC47-EA2B7D655733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A03C733-5ABF-4C89-BC47-EA2B7D655733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A03C733-5ABF-4C89-BC47-EA2B7D655733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622C928B-BF9C-4057-8E8A-8FAD6C43E9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622C928B-BF9C-4057-8E8A-8FAD6C43E9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622C928B-BF9C-4057-8E8A-8FAD6C43E9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622C928B-BF9C-4057-8E8A-8FAD6C43E9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
